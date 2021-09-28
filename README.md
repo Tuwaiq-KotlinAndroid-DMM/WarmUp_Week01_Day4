@@ -3,7 +3,6 @@
 
 
 ## Write a Kotlin program to input marks of five subjects Physics, Chemistry, Biology, Mathematics and Computer. Calculate total and grade according to following:
----
 
 > Percentage >= 450 : Grade A <br/>
 > Percentage >= 400 : Grade B <br/>
