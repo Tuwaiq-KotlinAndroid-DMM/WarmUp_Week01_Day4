@@ -11,7 +11,8 @@
 > Percentage >= 200 : Grade E <br/>
 > Percentage < 200 : Grade F
 
+--
 ## Write a Kotlin program to print day of week name using `when`.
 ---
 ## Write a Kotlin function to find the smallest number among three numbers.
----
+
