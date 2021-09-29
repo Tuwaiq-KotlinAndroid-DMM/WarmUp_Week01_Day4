@@ -2,7 +2,7 @@
 ---
 
 
-## Write a Kotlin program to input marks of five subjects Physics, Chemistry, Biology, Mathematics and Computer. Calculate total and grade according to following:
+## 1. Write a Kotlin program to input marks of five subjects Physics, Chemistry, Biology, Mathematics and Computer. Calculate total and grade according to following:
 
 > Total >= 450 : Grade A <br/>
 > Total >= 400 : Grade B <br/>
@@ -12,7 +12,7 @@
 > Total < 200 : Grade F
 
 ---
-## Write a Kotlin program to print day of week name using `when`.
+## 2. Write a Kotlin program to print day of week name using `when`.
 ---
-## Write a Kotlin function to find the smallest number among three numbers.
+## 3. Write a Kotlin function to find the smallest number among three numbers.
 
